@@ -1,7 +1,7 @@
-# from game.rps import rps
-# from game.updown import updown
-# from game.lotto import lotto
-# from game.slot import slot
+from game.rps import rps
+from game.updown import updown
+from game.lotto import lotto
+from game.slot import slot
 
 while True:
 
