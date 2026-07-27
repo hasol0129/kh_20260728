@@ -8,7 +8,7 @@ while True:
     print("\n===== 🎮 미니 게임 =====")
     print("1. 가위바위보")
     print("2. 업다운")
-    print("3. 로또")
+    print("3. 로또 게임")
     print("4. 슬롯머신")
     print("5. 종료")
 
